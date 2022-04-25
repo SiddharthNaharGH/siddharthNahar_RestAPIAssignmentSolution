@@ -1,5 +1,5 @@
-INSERT INTO users (user_id, user_name, password) VALUES(1, 'admin', '$2a$12$4r3elEOaoduGgEGCsFHQ2OqrJNmVn5ruvjIVTcJYGz/M7/nBT82X.');
-INSERT INTO users (user_id, user_name, password) VALUES(2, 'user', '$2a$12$cFoig3y7D8awJZb7xYiTXeeSEy2PCCT7VpcOz9Nc5JaTeO92Rpafa');
+INSERT INTO users (user_id, user_name, password) VALUES(1, 'admin', '$2a$04$Z7t6iSBMZSnvogM2LKA7G.qbjjtyfUEDDXbSKIRvSQUFbsn2Lkh.q');
+INSERT INTO users (user_id, user_name, password) VALUES(2, 'user', '$2a$04$AVfWAstrRSJjoYVJCZB2UuPgvFUUdL4UDYSKYsnUaEeUXorPFm4q.');
 
 INSERT INTO roles (role_id, role_name) VALUES(1, 'ADMIN');
 INSERT INTO roles (role_id, role_name) VALUES(2, 'USER');
